@@ -8,4 +8,6 @@ puts "#{rows[2]}"
 puts "#{rows[3]}"
 puts "#{rows[4]}"
 puts "#{board}"
+board = [" "," "," "," "," "," "," "," "," "]
+display_board(board)
 end
