@@ -1,4 +1,4 @@
-def display_board(display_board_spec)
+def display_board(board)
 
 rows = ["   |   |   ","-----------","   |   |   ","-----------","   |   |   "]
 
