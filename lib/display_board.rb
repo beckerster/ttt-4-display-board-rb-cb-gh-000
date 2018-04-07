@@ -1,6 +1,7 @@
-def display_board
+def display_board(display_board_spec)
+
 rows = ["   |   |   ","-----------","   |   |   ","-----------","   |   |   "]
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+
 puts "#{rows[0]}"
 puts "#{rows[1]}"
 puts "#{rows[2]}"
