@@ -1,5 +1,5 @@
 def display_board(board)
-capture_puts{ display_board(board)
+capture_puts{ display_board(board)}
 rows = ["   |   |   ","-----------","   |   |   ","-----------","   |   |   "]
 
 puts "#{rows[0]}"
