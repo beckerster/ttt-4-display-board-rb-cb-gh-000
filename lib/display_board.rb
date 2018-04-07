@@ -1,4 +1,4 @@
-def display_board
+def display_board(board)
 
 rows = ["   |   |   ","-----------","   |   |   ","-----------","   |   |   "]
 
@@ -9,3 +9,4 @@ puts "#{rows[3]}"
 puts "#{rows[4]}"
 
 end
+def 
