@@ -1,4 +1,4 @@
-def display_board(VariousGameSituations)
+def display_board(DisplayBoardInLibDisplayBoardRb)
 
 rows = ["   |   |   ","-----------","   |   |   ","-----------","   |   |   "]
 
